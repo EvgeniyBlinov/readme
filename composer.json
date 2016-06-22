@@ -1,0 +1,14 @@
+{
+    "name": "evgeniy/readme.php",
+    "description": "simple tool for read README.md",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Blinov Evgeniy",
+            "email": "evgeniy_blinov@mail.ru"
+        }
+    ],
+    "require-dev": {
+        "michelf/php-markdown": "1.6.0"
+    }
+}
